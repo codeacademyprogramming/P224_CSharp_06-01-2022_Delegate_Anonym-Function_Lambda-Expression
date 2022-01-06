@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P224\Task\P224Examples\P224Examples\bin\Debug\netcoreapp3.1\P224Examples.exe
+C:\Users\memme\Desktop\P224\Task\P224Examples\P224Examples\bin\Debug\netcoreapp3.1\P224Examples.deps.json
+C:\Users\memme\Desktop\P224\Task\P224Examples\P224Examples\bin\Debug\netcoreapp3.1\P224Examples.runtimeconfig.json
+C:\Users\memme\Desktop\P224\Task\P224Examples\P224Examples\bin\Debug\netcoreapp3.1\P224Examples.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P224\Task\P224Examples\P224Examples\bin\Debug\netcoreapp3.1\P224Examples.dll
+C:\Users\memme\Desktop\P224\Task\P224Examples\P224Examples\bin\Debug\netcoreapp3.1\P224Examples.pdb
+C:\Users\memme\Desktop\P224\Task\P224Examples\P224Examples\obj\Debug\netcoreapp3.1\P224Examples.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P224\Task\P224Examples\P224Examples\obj\Debug\netcoreapp3.1\P224Examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P224\Task\P224Examples\P224Examples\obj\Debug\netcoreapp3.1\P224Examples.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P224\Task\P224Examples\P224Examples\obj\Debug\netcoreapp3.1\P224Examples.AssemblyInfo.cs
+C:\Users\memme\Desktop\P224\Task\P224Examples\P224Examples\obj\Debug\netcoreapp3.1\P224Examples.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P224\Task\P224Examples\P224Examples\obj\Debug\netcoreapp3.1\P224Examples.dll
+C:\Users\memme\Desktop\P224\Task\P224Examples\P224Examples\obj\Debug\netcoreapp3.1\P224Examples.pdb
+C:\Users\memme\Desktop\P224\Task\P224Examples\P224Examples\obj\Debug\netcoreapp3.1\P224Examples.genruntimeconfig.cache
